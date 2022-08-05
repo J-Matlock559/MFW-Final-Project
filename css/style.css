@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(22, 43, 43);
+    background-color: rgb(22, 33, 43);
     
 }
 
@@ -12,7 +12,11 @@ body{
 }
 
 .big-icons{
-    font-size: 5rem;
+    font-size: 75px;
+}
+
+.med-icons{
+    font-size: 50px;
 }
 
 .purple-icon{
@@ -23,8 +27,16 @@ body{
     color: #F26700;
 }
 
+.no-dec{
+    text-decoration: none;
+}
+
 .blue-icon{
     color: #1F8EE7;
+}
+
+.pink-icon{
+    color: #C66394;
 }
 
 .yellow-icon{
@@ -33,4 +45,16 @@ body{
 
 .google-icon{
     color: #3F7EE8;
+}
+
+.git-logo{
+    color: #E94E31;
+}
+
+.title-font{
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.p-font{
+    font-family: 'Varta', sans-serif;
 }
